@@ -1,0 +1,1 @@
+User-agent: *Disallow: /systemDisallow: /libDisallow: /templateDisallow: /config
